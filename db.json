@@ -1,22 +1,75 @@
 {
-  "albums": [],
-  "photos": [],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Sleek Frozen Bacon",
+      "id": 27
+    },
+    {
+      "userId": 5,
+      "title": "Electronic Soft Cheese",
+      "id": 28
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Soft Car",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Frozen Cheese",
+      "id": 33
+    },
+    {
+      "userId": 1,
+      "title": "Modern Frozen Cheese",
+      "id": 34
+    },
+    {
+      "userId": 1,
+      "title": "Practical Metal Cheese",
+      "id": 35
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Cotton Table",
+      "id": 36
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5344989282304000",
+      "id": 3
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=3337191447068672",
+      "id": 4
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2195787362598912",
+      "id": 6
+    },
+    {
+      "albumId": 33,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1371067597717504",
+      "id": 7
+    }
+  ],
   "users": [
     {
       "id": 1,
       "name": "Myra"
     },
     {
-      "name": "Tonya Smitham",
-      "id": 2
-    },
-    {
-      "name": "Frederick Jones",
-      "id": 3
-    },
-    {
-      "name": "Leroy Schimmel III",
+      "name": "Toby Kshlerin",
       "id": 4
+    },
+    {
+      "name": "Henrietta Erdman",
+      "id": 5
     }
   ]
 }
